@@ -4,7 +4,7 @@
 
 This is a simple yet powerful tool designed to securely delete files so they can't be recovered. Built using Java and a user-friendly Swing GUI, this system makes it easy to select and remove sensitive files permanently.
 
-## What It Does -
+## What It Does
 
 1. Permanently deletes files by overwriting them multiple times.
 
